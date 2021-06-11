@@ -28,4 +28,4 @@ spec:
   accessPolicy:
     inbound:
       rules:
-        - application: debug
+        - application: sif-debug-app
