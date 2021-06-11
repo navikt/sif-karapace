@@ -1,4 +1,5 @@
 {
+  "app": "sif-karapace",
   "team": "dusseldorf",
   "kafka-pool": "nav-dev"
 }
