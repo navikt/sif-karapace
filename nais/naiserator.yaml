@@ -25,3 +25,7 @@ spec:
     memory: "256Mi"
   kafka:
     pool: {{ kafka-pool }}
+  accessPolicy:
+    inbound:
+      rules:
+        - application: debug
